@@ -1,12 +1,12 @@
 ##
-<h3>Olá! Eu sou o Ivony Mesquita</h3>
--  🚀  Hoje sou estudante de beck-end.
+<h3>👾 Olá! Eu sou o Ivony Mesquita</h3>
+-  💼 Desenvolvedor Bak-end em crescimento
 <br><br>
--  📒  Também quero aprender Front-end.
+-  📒  Também quero aprender Front-end
 <br><br>
--  🌱  Atualmente estou me aprofundando em Java.
+-  🌐 Explorando o mundo do desenvolvimento web
 <br><br>
--  👀  Quero colaborar na comunidade Java.
+-  🚀 Focado em Java mas sempre aberto a novas Tecnologias
 
 ##
 <div>
